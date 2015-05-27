@@ -1,0 +1,235 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-award52:before {
+	content: "\e000";
+}
+.flaticon-bar9:before {
+	content: "\e001";
+}
+.flaticon-bookmarks3:before {
+	content: "\e002";
+}
+.flaticon-books2:before {
+	content: "\e003";
+}
+.flaticon-box81:before {
+	content: "\e004";
+}
+.flaticon-buy11:before {
+	content: "\e005";
+}
+.flaticon-call39:before {
+	content: "\e006";
+}
+.flaticon-call41:before {
+	content: "\e007";
+}
+.flaticon-cart12:before {
+	content: "\e008";
+}
+.flaticon-celebration19:before {
+	content: "\e009";
+}
+.flaticon-coins21:before {
+	content: "\e00a";
+}
+.flaticon-coins30:before {
+	content: "\e00b";
+}
+.flaticon-commerce1:before {
+	content: "\e00c";
+}
+.flaticon-credit29:before {
+	content: "\e00d";
+}
+.flaticon-credit31:before {
+	content: "\e00e";
+}
+.flaticon-credit73:before {
+	content: "\e00f";
+}
+.flaticon-creditcard1:before {
+	content: "\e010";
+}
+.flaticon-envelope22:before {
+	content: "\e011";
+}
+.flaticon-envelope23:before {
+	content: "\e012";
+}
+.flaticon-envelope54:before {
+	content: "\e013";
+}
+.flaticon-female218:before {
+	content: "\e014";
+}
+.flaticon-football158:before {
+	content: "\e015";
+}
+.flaticon-games18:before {
+	content: "\e016";
+}
+.flaticon-global42:before {
+	content: "\e017";
+}
+.flaticon-global5:before {
+	content: "\e018";
+}
+.flaticon-happy50:before {
+	content: "\e019";
+}
+.flaticon-increasing5:before {
+	content: "\e01a";
+}
+.flaticon-ip4:before {
+	content: "\e01b";
+}
+.flaticon-iphone26:before {
+	content: "\e01c";
+}
+.flaticon-letter11:before {
+	content: "\e01d";
+}
+.flaticon-lightbulb58:before {
+	content: "\e01e";
+}
+.flaticon-location73:before {
+	content: "\e01f";
+}
+.flaticon-love102:before {
+	content: "\e020";
+}
+.flaticon-man251:before {
+	content: "\e021";
+}
+.flaticon-marker20:before {
+	content: "\e022";
+}
+.flaticon-message:before {
+	content: "\e023";
+}
+.flaticon-money144:before {
+	content: "\e024";
+}
+.flaticon-money245:before {
+	content: "\e025";
+}
+.flaticon-money34:before {
+	content: "\e026";
+}
+.flaticon-new100:before {
+	content: "\e027";
+}
+.flaticon-news2:before {
+	content: "\e028";
+}
+.flaticon-newspaper9:before {
+	content: "\e029";
+}
+.flaticon-package30:before {
+	content: "\e02a";
+}
+.flaticon-payment4:before {
+	content: "\e02b";
+}
+.flaticon-payment6:before {
+	content: "\e02c";
+}
+.flaticon-phone3:before {
+	content: "\e02d";
+}
+.flaticon-postcard:before {
+	content: "\e02e";
+}
+.flaticon-press10:before {
+	content: "\e02f";
+}
+.flaticon-protected9:before {
+	content: "\e030";
+}
+.flaticon-rage:before {
+	content: "\e031";
+}
+.flaticon-search104:before {
+	content: "\e032";
+}
+.flaticon-servers1:before {
+	content: "\e033";
+}
+.flaticon-shopping-cart13:before {
+	content: "\e034";
+}
+.flaticon-shoppingcart17:before {
+	content: "\e035";
+}
+.flaticon-shoppingcart14:before {
+	content: "\e036";
+}
+.flaticon-situation:before {
+	content: "\e037";
+}
+.flaticon-smartphone85:before {
+	content: "\e038";
+}
+.flaticon-society:before {
+	content: "\e039";
+}
+.flaticon-stamp15:before {
+	content: "\e03a";
+}
+.flaticon-stamp6:before {
+	content: "\e03b";
+}
+.flaticon-stamps:before {
+	content: "\e03c";
+}
+.flaticon-tag9:before {
+	content: "\e03d";
+}
+.flaticon-tags7:before {
+	content: "\e03e";
+}
+.flaticon-telephone50:before {
+	content: "\e03f";
+}
+.flaticon-tools6:before {
+	content: "\e040";
+}
+.flaticon-trophy8:before {
+	content: "\e041";
+}
+.flaticon-vehicle83:before {
+	content: "\e042";
+}
+.flaticon-web-programming:before {
+	content: "\e043";
+}
+.flaticon-website21:before {
+	content: "\e044";
+}
+.flaticon-winner7:before {
+	content: "\e045";
+}
+.flaticon-world-map:before {
+	content: "\e046";
+}
+.flaticon-world90:before {
+	content: "\e047";
+}
+.flaticon-worldwide1:before {
+	content: "\e048";
+}
