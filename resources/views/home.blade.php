@@ -54,30 +54,34 @@
                         <div class="col-md-12" style="padding-top: 30px;">
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
                                 <a href="" class="quick-links" id="reset_map" data-toggle="modal" data-target=".bs-example-modal-lg"><span class="flaticon-search104"></span>
-                                    <h5>Find a post office</h5></a>
+                                    <br />
+                                <span class="home-service2">Locate Office</span></a>
                             </div>
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
                                 <a href="" class="quick-links" id="reset_map" data-toggle="modal" data-target=".modal-rates"><span class="flaticon-credit29"></span>
-                                    <h5>Get rates</h5></a>
+                                    <br />
+                                <span class="home-service2">Get rates</span></a>
                             </div>
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
-                                <span class="flaticon-call39"></span>
-                                <h5>Need assistance?</h5>
+                                <span class="flaticon-call39"></span><br />
+                                <span class="home-service2">Need assistance</span>
                             </div>
                         </div>
 
                         <div class="col-md-12" style="padding-top: 30px;">
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
-                                <span class="flaticon-stamp6"></span>
-                                <h5>Philately</h5>
+                                <a href="{{url('/philately')}}"
+                                   <span class="flaticon-stamp6"></span><br />
+                                <span class="home-service2">Philately</span>
+                                </a>
                             </div>
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
-                                <span class="flaticon-envelope23"></span>
-                                <h5>Box Application</h5>
+                                <span class="flaticon-envelope23"><br />
+                                <span class="home-service2">Box Application</span>
                             </div>
                             <div class="col-md-4" style="padding: 10px; text-align: center;">
-                                <span class="flaticon-buy11"></span>
-                                <h5>Card top-up</h5>
+                                <span class="flaticon-buy11"></span><br />
+                                <span class="home-service2">Card Top-up</span>
                             </div>
                         </div>
                     </div>
@@ -107,36 +111,32 @@
         <div class="col-md-3">
             <div class="service c" style="">
                 <br />
-                <img src="public/img/posta/ems.png" style="height: 74px; width:100px;" />
-                <h4>EMS</h4>
-                <p>Send mail anywhere.</p>
+                <img src="public/img/posta/ems.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">EMS</span>
             </div>
         </div>
 
         <div class="col-md-3">
             <div class="service c">
                 <br />
-                <img src="public/img/posta/mail.png" style="height: 74px; width:100px;" />
-                <h4>Mail</h4>
-                <p>Move goods easy</p>
+                <img src="public/img/posta/mail.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Mail</span>
             </div>
         </div>
 
         <div class="col-md-3">
             <div class="service c">
                 <br />
-                <img src="public/img/posta/posta_pesa.png" style="height: 74px; width:100px;" />
-                <h4>Posta Pesa</h4>
-                <p>Buy, Pay, Transffer.</p>
+                <img src="public/img/posta/posta_pesa.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Posta Pesa</span>
             </div>
         </div>
 
         <div class="col-md-3">
             <div class="service c">
                 <br />
-                <img src="public/img/posta/money_order.png" style="height: 74px; width:100px;" />
-                <h4>Philately</h4>
-                <p>Collect and buy stamps</p>
+                <img src="public/img/posta/money_order.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Money Order</span>
             </div>
         </div>
 
@@ -146,18 +146,16 @@
         <div class="col-md-3">
             <div class="service c" style="">
                 <br />
-                <img src="public/img/posta/posta_parcel.png" style="height: 74px; width:100px;" />
-                <h4>Posta Parcel</h4>
-                <p>Send mail anywhere.</p>
+                <img src="public/img/posta/posta_parcel.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Posta Parcel</span>
             </div>
         </div>
 
         <div class="col-md-3">
             <div class="service c">
                 <br />
-                <img src="public/img/posta/posta_pay.png" style="height: 74px; width:100px;" />
-                <h4>Mail</h4>
-                <p>Move goods easy</p>
+                <img src="public/img/posta/posta_pay.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Posta Pay</span>
             </div>
         </div>
 
@@ -165,9 +163,8 @@
 
             <div class="service c">
                 <br />
-                <img src="public/img/posta/travel_lite.png" style="height: 74px; width:100px;" />
-                <h4>Posta Pesa</h4>
-                <p>Buy, Pay, Transffer.</p>
+                <img src="public/img/posta/travel_lite.png" style="height: 74px; width:100px;" /><br />
+                <span class="home-service">Travel Lite</span>
             </div>
         </div>
 
@@ -175,8 +172,7 @@
             <div class="service c">
                 <br />
                 <img src="public/img/posta/philately.png" style="height: 74px; width:100px;" />
-                <h4>Philately</h4>
-                <p>Collect and buy stamps</p>
+                <span class="home-service">Philately</span>
             </div>
         </div>
 
@@ -187,99 +183,9 @@
 <div class="space20"></div>
 <div class="space20"></div>
 
-<!-- Recent News -->
-<div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h3 class="posta_headers">Recent News</h3>
-        </div>
-    </div>
-</div>
 
-<div class="space10"></div>
 
-<div class="container panel" style="background-color: #f5f3f3; padding-top: 30px;">
-    <div class="row popup-gallery">
-
-        <div class="col-md-3 col-sm-6">
-
-            <div class="item-box">
-                <div class="media-container">
-                    <img src="public/img/recent-news/01.jpg" alt="">
-                    <a href="#" class="icon-left"><i class="fa fa-chain"></i></a>
-                    <a href="public/img/recent-news/01.jpg" class="icon-right"><i class="fa fa-arrows-alt"></i></a>
-                </div>
-                <div class="info-container">
-                    <h5>Posta ISO 344 certified</h5>
-                    <h4>10 May 2014 | Comments</h4>
-                    <p style="font-size: 14px;">
-                        Postal corporation is officially an ISO certified institution according to a recent audit...
-                    </p>
-                </div>
-            </div>
-            <div class="space40"></div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-6">
-
-            <div class="item-box">
-                <div class="media-container">
-                    <img src="public/img/recent-news/02.jpg" alt="">
-                    <a href="#" class="icon-left"><i class="fa fa-book"></i></a>
-                    <a href="public/img/recent-news/02.jpg" class="icon-right"><i class="fa fa-search"></i></a>
-                </div>
-                <div class="info-container">
-                    <h5>Q4 Profits up again</h5>
-                    <h4>12 May 2014 | Comments</h4>
-                    <p style="font-size: 14px;">
-                        In a recent positive highlights PCK has realised a 4th quarter profit margin again this...
-                    </p>
-                </div>
-            </div>
-            <div class="space40"></div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-6">
-
-            <div class="item-box">
-                <div class="media-container">
-                    <img src="public/img/recent-news/03.jpg" alt="">
-                    <a href="#" class="icon-left"><i class="fa fa-align-left"></i></a>
-                    <a href="public/img/recent-news/03.jpg" class="icon-right"><i class="fa fa-search-plus"></i></a>
-                </div>
-                <div class="info-container">
-                    <h5>Mozambique Benchmarks</h5>
-                    <h4>14 May 2014 | Comments</h4>
-                    <p style="font-size: 14px;">
-                        Posta was happy to allow a high technical deligation to carry out benchmarking ...
-                    </p>
-                </div>
-            </div>
-            <div class="space40"></div>
-
-        </div>
-
-        <div class="col-md-3 col-sm-6">
-            <div class="item-box">
-                <div class="media-container">
-                    <img src="public/img/recent-news/04.jpg" alt="">
-                    <a href="#" class="icon-left"><i class="fa fa-wheelchair"></i></a>
-                    <a href="public/img/recent-news/04.jpg" class="icon-right"><i class="fa fa-plus"></i></a>
-                </div>
-                <div class="info-container">
-                    <h5>E-commerce Parcel integration is on</h5>
-                    <h4>15 May 2014 | Comments</h4>
-                    <p style="font-size: 14px;">
-                        In an innovative move to offer more enterprise solutions, Posta is..
-                    </p>
-                </div>
-            </div>
-            <div class="space40"></div>
-        </div>
-    </div>
-</div>
+<div id="news_feeds"></div>
 <!-- Recent News End -->
 
 <div class="space40"></div>
@@ -326,41 +232,130 @@
 
 <div class="modal fade modal-rates" style="z-index: 100000; margin-top: 5%; padding: 20px;" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
-        <div class="modal-content" style="padding: 20px; height: 500px;">
-            <form id="testform">
-                <div class="col-md-12">
-                    <div class="tabbable">
-          <ul class="nav nav-tabs">
-            <li class="active"><a href="#tab1-1" data-toggle="tab"><i class="fa fa-fire"></i>EMS</a></li>
-            <li><a href="#tab1-2" data-toggle="tab"><i class="fa fa-pencil"></i>Postage</a></li>
-            <li><a href="#tab1-3" data-toggle="tab"><i class="fa fa-check"></i>Parcel</a></li>
-            <li><a href="#tab1-4" data-toggle="tab"><i class="fa fa-calendar"></i>Tab 4</a></li>
-          </ul>
-          <div class="tab-content">
-            <div class="tab-pane active" id="tab1-1">
-              <h3>I'm in Section 1</h3>
-              <p>Ut wisi enim ad minim veniam, quis nostrud exeinim veniam, quis nostrud exerci tation ullamcorper susc nostrudexerci tation ullamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendinim veniud exerci tauscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequatrci ta etiam processus dynamicus, and mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc. Parum claram, anteposuerit litterarum formas humanitattion ullamcorper suscipit lobrerit in vul.</p>
-              <p>niam, quis nostrud exerci tauat. Duis autem vel eum iriure dolor in hendinim veniam, quis nostrud exerexerci tation ullamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo consequrud exerci tation ullamcorper susc nostrudexerci tation ullamtion ullamcoer susc nostrudexerci tation ullamcoramcorper suscipit lobor</p>
+        <div class="modal-content" style="padding: 20px; min-height: 500px;">
+
+            <div class="col-md-12">
+                <div class="tabbable">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#tab1-1" data-toggle="tab">EMS - Overnight</a></li>
+                        <li><a href="#tab1-2" data-toggle="tab">EMS International</a></li>
+                        <li><a href="#tab1-3" data-toggle="tab">Bahasha Kasha</a></li>
+                        <li><a href="#tab1-4" data-toggle="tab">EMS - Same day by road</a></li>
+                        <li><a href="#tab1-5" data-toggle="tab">EMS - Same day by air</a></li>
+                    </ul>
+                    <div class="tab-content">
+                        
+                        <div class="tab-pane active" id="tab1-1">
+                            <h3></h3>
+                            <p>
+                            <form id="ems_overnight_form">
+                                <label style="color: #000;">To</label>
+                                <select class="form-control" name="destination">
+                                    @foreach ($destinations as $destination)
+                                        <option value="{{$destination->destination}}">{{$destination->destination}}</option>
+                                    @endforeach
+                                </select><br />
+                                <label  style="color: #000;">weight</label><br />
+                                <input type="text" name="weight" class="form-control" placeholder="Enter weight" /><br />
+
+                                <input type="submit" id="get_ems_overnight_btn" name="submit"  class="btn btn-primary btn-sm" value="Calculate Rate" />
+                            </form>
+                            <div id="ems_overnight_response" style="color: #000; font-weight: 22px;"></div>
+                            </p>
+                        </div>
+                        
+                        <div class="tab-pane" id="tab1-2">
+                            <h3></h3>
+                            <p>
+
+                            <form id="ems_international_form">
+                                <select class="form-control" name="zone">
+                                    @foreach ($countries as $country)
+                                        <option value="{{$country->zone}}">{{$country->country}}</option>
+                                    @endforeach
+                                </select><br />
+                                <input type="text" name="weight" class="form-control" placeholder="Enter weight" /><br />
+
+                                <input type="submit" id="get_ems_international_btn" name="submit"  class="btn btn-primary btn-sm" value="Calculate Rate" />
+
+                            </form>
+
+                            <div id="ems_international_response" style="color: #000; font-weight: 22px;"></div>
+
+                            </p>
+                        </div>
+                        
+                        <div class="tab-pane" id="tab1-3">
+                            <h3></h3>
+                            <p>
+
+                            <form id="bahasha_kasha_form">
+                                <select class="form-control" name="destination">
+                                    @foreach ($destinations as $destination)
+                                        <option value="{{$destination->destination}}">{{$destination->destination}}</option>
+                                    @endforeach
+                                </select><br />
+
+                                <input type="submit" id="get_bahasha_kasha_btn" name="submit"  class="btn btn-primary btn-sm" value="Calculate Rate" />
+
+                            </form>
+
+                            <div id="bahasha_kasha_response" style="color: #000; font-weight: 22px;"></div>
+
+                            </p>
+                        </div>
+                        
+                        <div class="tab-pane" id="tab1-4">
+                            <h3></h3>
+                            <p>
+                            <form id="ems_same_day_by_road_form">
+                                <label style="color: #000;">From</label>
+                                <select class="form-control" name="origin">
+                                    <option value="NAIROBI">Nairobi</option>
+                                    <option value="NAIVASHA">Naivasha</option>
+                                </select><br />
+                                <label style="color: #000;">To</label><br />
+                                <select class="form-control" name="destination">
+                                    <option value="MACHAKOS">Machakos</option>
+                                    <option value="NYERI">Nyeri</option>
+                                    <option value="NAKURU">Nakuru</option>
+                                    <option value="GILGIL">Gilgil</option>
+                                </select><br />
+                                <label  style="color: #000;">weight</label><br />
+                                <input type="text" name="weight" class="form-control" placeholder="Enter weight" /><br />
+
+                                <input type="submit" id="get_ems_same_day_by_road_btn" name="submit"  class="btn btn-primary btn-sm" value="Calculate Rate" />
+                            </form>
+                            <div id="ems_same_day_by_road_response" style="color: #000; font-weight: 22px;"></div>
+                            </p>
+                        </div>
+                        
+                        <div class="tab-pane" id="tab1-5">
+                            <h3></h3>
+                            <p>
+                            <form id="ems_same_day_by_air_form">
+                                <label style="color: #000;">From</label>
+                                <select class="form-control" name="origin">
+                                    <option value="NAIROBI">Nairobi</option>
+                                </select><br />
+                                <label style="color: #000;">To</label><br />
+                                <select class="form-control" name="destination">
+                                    <option value="MOMBASA">Mombasa</option>
+                                    <option value="ELDORET">Eldoret</option>
+                                    <option value="KISUMU">Kisumu</option>
+                                </select><br />
+                                <label  style="color: #000;">weight</label><br />
+                                <input type="text" name="weight" class="form-control" placeholder="Enter weight" /><br />
+
+                                <input type="submit" id="get_ems_same_day_by_air_btn" name="submit"  class="btn btn-primary btn-sm" value="Calculate Rate" />
+                            </form>
+                            <div id="ems_same_day_by_air_response" style="color: #000; font-weight: 22px;"></div>
+                            </p>
+                        </div>
+                        
+                    </div>
+                </div>               
             </div>
-            <div class="tab-pane" id="tab1-2">
-              <h3>I'm in Section 2</h3>
-              <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcinim veniam, quis nostrud exerci tation ullamcorper t lobortis nisl ut alisequat. Duis autem vel einim veniam, quis nostrud exerim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequatinim veniam, quis nostrud exerci tation ullamcorper suscipit lobci tation ullamcorper suscipit lobum iriure dolor in hendrerit in vul</p>
-              <p>Ut wisi enim ad minim veniam, quis nostrud exeinim veniam, quis nostr etiam processus dynamicus, and mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc. Pa ad minim veniam, quis nostrud exerci trum claram, anteposuerit littera ad minim veniam, quis nostrud exerci trum formas humanitatud exerci tation ullamcorper susc nostrudexe.</p>
-            </div>
-            <div class="tab-pane" id="tab1-3">
-              <h3>I'm in Section 3</h3>
-              <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex eim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequata coiipit lobmmodo consequat. Duis autem vel eum iriure dolor in hendrerit in vinim veniam, quis nostrud einim veniam, quis nostrud exerci tation ullamcorper suscipit lobxerci tation ullamcorper suscipit lobul</p>
-              <p>Gad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequat. Duis autem vel eum iriure dolor in hendrerit in vinim veniam, quis nostrud einim veniam, qocessus dynamicus, and mutationem consuetuum est notare quam littera gothica, quam nunc. Parum claram, anteposuerit litterarum formas humanitattion ullamcorper suscipit lobul</p>
-            </div>
-            <div class="tab-pane" id="tab1-4">
-              <h3>I'm in Section 4</h3>
-              <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex eim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequata coiipit lobmmodo consequat. Duis autem vel eum iriure dolor in hendrerit in vinim veniam, quis nostrud einim veniam, quis nostrud exerci tation ullamcorper suscipit lobxerci tation ullamcorper suscipit lobul</p>
-              <p>Gad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequat. Duis autem vel eum iriure dolor in hendrerit in vinim veniam, quis nostrud einim veniam, qocessus dynamicus, and mutationem consuetuum est notare quam littera gothica, quam nunc. Parum claram, anteposuerit litterarum formas humanitattion ullamcorper suscipit lobul</p>
-            </div> 
-          </div>
-        </div>               
-                </div>
-            </form>
         </div>
     </div>
 </div>
